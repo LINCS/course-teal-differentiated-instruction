@@ -1,0 +1,2 @@
+# course-teal-differentiated-instruction
+This Moodle course is for Differentiated Instruction. Differentiated instruction is an approach that enables instructors to plan strategically to meet the needs of every learner. The approach encompasses the planning and delivery of instruction, classroom management techniques, and expectations of learners’ performance that take into consideration learners’ diversity and varied levels of readiness, interests, and learning profiles.
