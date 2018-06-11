@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="65" moduleid="398" modulename="page" contextid="661">
+  <page id="65">
+    <name>Differentiated instruction: The key concepts (Presentation)</name>
+    <intro>&lt;p&gt;Learn the key concepts of DI in this TEAL-produced recorded presentation.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p align="center"&gt;&lt;span&gt;Watch the presentation below to learn the background and key concepts of &lt;abbr title="Differentiated Instuction"&gt;DI&lt;/abbr&gt; and how to apply &lt;abbr title="Differentiated Instuction"&gt;DI&lt;/abbr&gt; to the adult education context. &lt;/span&gt;&lt;/p&gt;
+&lt;!-- &lt;p&gt;&lt;a title="Differentiating Instruction: Key Concepts" href="@@PLUGINFILE@@/DI_Key_Concepts/SWF4/Differentiated_Instruction_-_Key_Concepts_FINAL2.html"&gt;&lt;img width="250" vspace="0" border="0" hspace="0" height="187" src="@@PLUGINFILE@@/DI_thumb.jpg" alt="View Differentiated Instruction Video" title="View Differentiated Instruction Video" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt; --&gt;
+&lt;div id="media"&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="640" height="480"&gt;&lt;param name="movie" value="//www.youtube.com/v/Pm4uANzLSpk?version=3&amp;amp;hl=en_US" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed height="480" type="application/x-shockwave-flash" width="640" src="https://www.youtube.com/v/Pm4uANzLSpk?version=3&amp;amp;hl=en_US" allowfullscreen="true" allowscriptaccess="always" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div align="center"&gt;&lt;/div&gt;
+&lt;div align="center"&gt;&lt;/div&gt;
+&lt;div align="center"&gt;&lt;br /&gt;&lt;span color="#000000"&gt;[&lt;a title="PDF - opens new window" href="@@PLUGINFILE@@/Differentiated_Instruction_-_Key_Concepts_Transcript.pdf" target="_blank"&gt;Transcript of presentation&lt;/a&gt;]&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;p class="MsoNormal"&gt;&lt;small&gt;The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update &lt;a title="new website for downloading flash player  - opens in new window" href="http://www.adobe.com/go/getflashplayer"&gt;Adobe Flash Player&lt;/a&gt;.&lt;br /&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>10</revision>
+    <timemodified>1472693359</timemodified>
+  </page>
+</activity>

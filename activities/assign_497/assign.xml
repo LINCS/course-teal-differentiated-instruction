@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="26" moduleid="497" modulename="assign" contextid="776">
+  <assign id="26">
+    <name>Assignment #3: Use and review tools for managing differentiated math instruction</name>
+    <intro>&lt;p&gt;&lt;span&gt;&lt;span face="Calibri"&gt;Using spread sheets, presenting concepts visually with computer software, doing project-based activities, and incorporating arts and music to teach math can be helpful to students who struggle to learn through traditional delivery methods.  These varied approaches can accommodate students who have different interests and strengths, and are learning at different paces.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span face="Calibri"&gt;Identify two or more tools for differentiating instruction in the attached list. In your reflection, describe how you used the tools to differentiate instruction, rate the tools’ effectiveness to meet your instructional goals, and post your reflection or your students’ comments.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span face="Calibri"&gt;TEAL staff will compile and publish the results. You will be contributing to a robust list of annotated tools and how to use them to improve math instruction for adult learners. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;&lt;span face="Calibri"&gt;Examples of Tools&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;The following websites provide research-based best practices, resources and activities to complement your math instruction (list also found in Section 4):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.corestandards.org/Math/Practice" title="New Website - opens a new window" target="_blank"&gt;Common Core State Standards for Mathematics: Standards for Mathematical Practice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nap.edu/openbook.php?isbn=0309069955" title="New Website - opens a new window" target="_blank"&gt;Adding it Up: Helping Children Learn Mathematics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thirteen.org/edonline/adulted/lessons.html" title="New Website - opens a new window" target="_blank"&gt;ThirteenEd Online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ct4me.net/Common-Core/hsmath-intro.htm" title="New Website - opens a new window" target="_blank"&gt;Computing Technology for Math Excellence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nctm.org/Classroom-Resources/Core-Math-Tools/General-Purpose-Tools/" title="New Website - opens a new window" target="_blank"&gt;NCTM – Core Math Tools: General Purpose Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://car.rene-grothmann.de/doc_en/index.html" title="New Website - opens a new window" target="_blank"&gt;C a R - Compass and Ruler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://floorplanner.com/" title="New Website - opens a new window" target="_blank"&gt;Floor Planner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mathforum.org/mathtools/sitemap2/fe/" title="New Website - opens a new window" target="_blank"&gt;Math Forum: Math Tools, Financial Education&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nlvm.usu.edu/en/nav/vlibrary.html" title="New Website - opens a new window" target="_blank"&gt;National Library of Virtual Manipulatives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.edutopia.org/blog/stem-engagement-maker-movement-annmarie-thomas" title="New Website - opens a new window" target="_blank"&gt;Edutopia Engaging Students in the STEM Classroom through “Making”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://artsedge.kennedy-center.org/educators/lessons.aspx?facet:OtherSubjectName=Math&amp;amp;q#results" title="New Website - opens a new window" target="_blank"&gt;ArtsEdge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://thefutureschannel.com/" title="New Website - opens a new window" target="_blank"&gt;The Futures Channel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1527024530</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="139">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="140">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="141">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="142">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="143">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="144">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="145">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1967">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1968">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

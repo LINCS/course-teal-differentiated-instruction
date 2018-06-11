@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="22" moduleid="489" modulename="assign" contextid="767">
+  <assign id="22">
+    <name>Assignment #2: Differentiate one of your writing lessons</name>
+    <intro>&lt;p&gt;Rework one of your lessons through the lens of Gradual Release and differentiated instruction. Consider how you might adapt the &lt;b&gt;content&lt;/b&gt;, &lt;b&gt;process&lt;/b&gt;, and/or &lt;b&gt;product. &lt;br /&gt;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Write a plan&lt;/b&gt; for a specified group of learners in your class (a group of two or three students). Describe the learners briefly by their interests, learning profiles, and levels of readiness.&lt;/p&gt;
+&lt;p&gt;Consider how you can add choices:&lt;/p&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;If your lesson objective is a skill or a process (e.g., sentence combining or calculating sale item discounts), allow learners to choose the content.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;If your lesson objective is content specific (e.g., social studies), allow learners to choose the tools and media for submission (on paper, via blog, audio recording).&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="line-height: 1.231;"&gt;If your lesson is product specific (e.g., an essay), allow learners to choose the content (topic) or media for submission.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;How will these adaptations affect your ongoing monitoring of learner progress? What will success look like? Are your expectations high enough?&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1527024474</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="111">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="112">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="113">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="114">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="115">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="116">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="117">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1961">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1962">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

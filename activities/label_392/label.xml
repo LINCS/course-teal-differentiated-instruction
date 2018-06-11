@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="101" moduleid="392" modulename="label" contextid="655">
+  <label id="101">
+    <name> 
+Course Objectives</name>
+    <intro>&lt;h4&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;/span&gt;&lt;/strong&gt; &lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Course Objectives&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1389309337</timemodified>
+  </label>
+</activity>

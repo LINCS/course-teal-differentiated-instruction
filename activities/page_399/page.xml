@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="66" moduleid="399" modulename="page" contextid="662">
+  <page id="66">
+    <name>Watch this short video - Differentiated Instruction goes to college! (Presentation)</name>
+    <intro>&lt;p&gt;Watch this short video to see how a college professor applies DI in her classroom at Mary Washington University.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;The research base on differentiated instruction is grounded in elementary and middle school grades. But Dr. Laurie Abeel from Mary Washington University in VA discusses how she applies differentiated instruction to adult college students.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt; &lt;iframe height="360" src="https://www.youtube.com/embed/xJmEiQ4HmEc?rel=0&amp;amp;cc_load_policy=1" frameborder="0" width="480" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p align="center"&gt;[&lt;a title="Video DI goes to college" href="@@PLUGINFILE@@/DI_Goes_to_College_-_Transcription.pdf" target="_blank"&gt;Transcript of presentation&lt;/a&gt;]&lt;/p&gt;
+&lt;p style="text-align: left;" class="MsoNormal"&gt;&lt;span style="font-size: x-small;"&gt;&lt;small&gt;The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update &lt;a title="new website for downloading flash player  - opens in new window" href="http://www.adobe.com/go/getflashplayer"&gt;Adobe Flash Player&lt;/a&gt;.&lt;br /&gt;&lt;/small&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;" class="MsoNormal"&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>22</revision>
+    <timemodified>1472693382</timemodified>
+  </page>
+</activity>

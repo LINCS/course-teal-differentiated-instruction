@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="8" moduleid="403" modulename="wiki" contextid="666">
+  <wiki id="8">
+    <name>Shifting the Balance of Responsibility</name>
+    <intro>&lt;p&gt;&lt;img title="Gradual Release Pyramid" alt="Gradual Release Pyramid - showing the transition of knowledge from teacher to students." src="@@PLUGINFILE@@/Gradual_Release_Pyramid_image.JPG" width="504" height="378" complete="true" style="margin-left: 0px; margin-right: 0px;" /&gt;&lt;br /&gt;&lt;span style="font-size: 12pt;"&gt;&lt;/span&gt;How well does the pyramid of responsibility reflect your current teaching practices? (Hint: It may be helpful to think about your students who have different skill levels.)&lt;/p&gt;
+&lt;p&gt;To add your ideas to the wiki page track, click on the Edit tab. Be sure to put your name in parentheses at the end of your addition.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timecreated>1377119061</timecreated>
+    <timemodified>1513870599</timemodified>
+    <firstpagetitle>First Page</firstpagetitle>
+    <wikimode>collaborative</wikimode>
+    <defaultformat>html</defaultformat>
+    <forceformat>1</forceformat>
+    <editbegin>0</editbegin>
+    <editend>0</editend>
+    <subwikis>
+    </subwikis>
+  </wiki>
+</activity>

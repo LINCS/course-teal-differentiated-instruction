@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="67" moduleid="402" modulename="page" contextid="665">
+  <page id="67">
+    <name>Video: Gradual Release of Responsibility (Presentation)</name>
+    <intro>&lt;p style="text-align: left;"&gt;This video provides an understanding of how gradual release can be implemented in the classroom.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;h3 style="text-align: left;"&gt;Examples of Differentiated Instruction in Writing&lt;/h3&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;The YouTube video below of Jeffery Wilhelm, Professor, Boise State University, explains the gradual release model and ways that it can implemented in the classroom, accommodating learner differences and levels of readiness. As you watch the video, consider how you might use the "I Do, We Do, You Do" model in your classes.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;embed height="480" type="application/x-shockwave-flash" width="640" src="https://www.youtube.com/v/T2kthBiYHF4?hl=en_US&amp;amp;version=3&amp;amp;cc_load_policy=1" allowfullscreen="true" allowscriptaccess="always" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="@@PLUGINFILE@@/DI_Gradual_Release_of_Responsibility_transcript_v2.pdf" target="_top"&gt;Transcript of Presentation&lt;/a&gt;&lt;/p&gt;
+&lt;h3 style="text-align: left;"&gt;Examples of Differentiated Instruction in Math&lt;/h3&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span&gt;Example 1 - Video: Teaching with Question&lt;/span&gt;&lt;/h4&gt;
+&lt;p style="text-align: left;"&gt;In a video, &lt;a href="https://www.alanproject.org/documents-and-videos" title="New Website - opens a new window" target="_blank"&gt;Teaching with Questions&lt;/a&gt;, curriculum developer Steve Hinds depicts instruction that allows students to develop independent thinking, explain their thought processes and approaches to problem solving, and communicate with one another and with the teacher. At the time of filming Steve Hinds was the Mathematics Staff Developer in Adult Literacy/GED Program and College Transition Program at the City University of New York and he is currently the Mathematics Curriculum Developer for the City Colleges of Chicago. &lt;/p&gt;
+&lt;h4 style="text-align: left;"&gt;&lt;span&gt;Example 2: Differentiated Learning in the Math Classroom&lt;/span&gt;&lt;/h4&gt;
+&lt;p style="text-align: left;"&gt;Eighth grade math teacher David Saurez and his colleagues developed a tiered instructional approach to work with their students.  They organized instruction into thematic units.  For each math skill within a unit, they determined activities that would demonstrate a foundational understanding, an intermediate understanding, and an advanced understanding of the concepts, color coded as Green, Blue, Black.  For a portion of each class period, students select assignments to work on within the level that is challenging without overwhelming them.  This approach allows students more autonomy and reveals a progression of how the concepts are connected.  For example, for a lesson on Understanding Slope, David Saurez provided the following three assignment options to his students.&lt;/p&gt;
+&lt;table style="float: left;" border="1" align="center"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th bgcolor="#e5e5e5"&gt;&lt;strong&gt;&lt;span&gt;Topic &lt;/span&gt;&lt;/strong&gt;&lt;/th&gt;&lt;th bgcolor="#e5e5e5"&gt;&lt;strong&gt;&lt;span&gt;Green Level&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&lt;span&gt;(foundational)&lt;/span&gt;&lt;/strong&gt;&lt;/th&gt;&lt;th bgcolor="#e5e5e5"&gt;&lt;strong&gt;&lt;span&gt;Blue Level&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&lt;span&gt;(intermediate)&lt;/span&gt;&lt;/strong&gt;&lt;/th&gt;&lt;th bgcolor="#e5e5e5"&gt;&lt;strong&gt;&lt;span&gt;Black Level&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&lt;span&gt;(advanced)&lt;/span&gt;&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;Understanding Slope&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;Understanding Slope Find the slope of the line passing through the following pair of points: (-4, 6) and (-3, 2).&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;Find a so that the line connecting the points (-2, -3) and (2, 5) is parallel to the line connecting the points (6, a) and (0, 4).&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;If a &amp;gt; 1, what must be true about b so that the line passing through points (a, b) and (1, -3) has a negative slope?&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;&lt;span face="Calibri"&gt;Source: Suarez, D. (2007). When students choose the challenge. &lt;i&gt;Educational Leadership&lt;/i&gt;, &lt;i&gt;65&lt;/i&gt;(3), 60&lt;i&gt;–&lt;/i&gt;65.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;&lt;small&gt;The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update &lt;a title="new website for downloading flash player  - opens in new window" href="http://www.adobe.com/go/getflashplayer"&gt;Adobe Flash Player&lt;/a&gt;&lt;/small&gt;.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>26</revision>
+    <timemodified>1513608080</timemodified>
+  </page>
+</activity>

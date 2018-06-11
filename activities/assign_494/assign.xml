@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="25" moduleid="494" modulename="assign" contextid="773">
+  <assign id="25">
+    <name>Assignment #2: Differentiate one of your math lessons</name>
+    <intro>&lt;h3&gt;&lt;span&gt;&lt;b&gt;&lt;span face="Calibri"&gt;Three questions to ask yourself as you plan your lessons*&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span&gt;&lt;span face="Calibri"&gt;What makes a math task easy or hard for each of my students?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&lt;span face="Calibri"&gt;How can I provide support for my students who are struggling and challenge those who are more advanced?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;How can I integrate effective differentiation despite limited planning time?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;&lt;span&gt;&lt;b&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Ways to differentiate math lessons&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Provide adjusted versions of a task (i.e., tiered instruction) so that the learning objectives are the same but the demands are geared to different levels&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Increase or decrease the number of  facets in a problem: &lt;/span&gt;&lt;/span&gt;&lt;span face="Calibri"&gt;Simpli&lt;/span&gt;&lt;span face="Calibri"&gt;&lt;span&gt;fy or increase complexity of language&lt;ins datetime="2013-07-24T10:53" cite="mailto:Ruth"&gt;&lt;/ins&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Number of steps necessary to find a solution&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Number of variables &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Variety of skills needed&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Simplify or increase complexity of language&lt;span face="Times New Roman"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Times New Roman"&gt;&lt;/span&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Incorporate technology (i.e., calculators, software programs)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Sample of differentiation in instruction:&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span&gt;&lt;b&gt;&lt;span face="Calibri"&gt; &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Objectives&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Show patterns and relationships between variables&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Identify patterns that involve addition, subtraction, multiplications, division, or a combination&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&lt;span&gt;&lt;span face="Calibri"&gt;Represent patterns in equations using algebraic notation&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span face="Calibri"&gt;The In-Out tables, the problems written out in words, and the equations below can be used to teach these concepts.  Depending on proficiency levels, this material can be used in different combinations and formats.  At the end of this example, there is guidance on how provide lower level or higher level work.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;table border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th&gt;&lt;span&gt;&lt;strong&gt;IN  = x&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th&gt;&lt;span&gt;&lt;strong&gt;RULE: &lt;/strong&gt;Multiply x by 10&lt;/span&gt;&lt;/th&gt;&lt;th&gt;&lt;span&gt;&lt;strong&gt;Out = y&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;2&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;2 x 10 →&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;20&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;4&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;4 x 10 →&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;40&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;6&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;6 x 10 →&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;60&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;8&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;8 x 10 →&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;80&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;table border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt; x        &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th&gt;&lt;span&gt;&lt;strong&gt;&lt;span&gt;y           &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt; 1   &lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;5  &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;2&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;10&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;3&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;15&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;4&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;20&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;table border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th&gt;&lt;span&gt;&lt;strong&gt;x          &lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th&gt;&lt;span&gt;&lt;strong&gt;y          &lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;2&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;20&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;4&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;40&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;6&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;60&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;8&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;80&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;table border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th&gt;&lt;strong&gt;&lt;span&gt;x          &lt;/span&gt;&lt;/strong&gt;&lt;/th&gt;&lt;th&gt;&lt;strong&gt;&lt;span&gt;y          &lt;/span&gt;&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;2&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;16&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;6&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;28&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;11&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;43&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;20&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;70&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;table border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;span&gt;x           &lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;span&gt;y          &lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;12&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;2&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;18&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;3&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;24&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;4&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span&gt;30&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span&gt;5&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;b&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Problem in Words&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;10 times x equals y&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;X divided by 6 equals y&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;3 times x plus 10 equals y&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;4 times x plus x equals y&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;5 times x equals y&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Equations&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Y =3x +10&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;X / 6 = y&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Y = 10x&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;4x + x =y&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span face="Calibri"&gt;&lt;span&gt;&lt;span&gt;This lesson can be differentiated in multiple ways&lt;/span&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Lower Level&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Provide all of the pieces – the completed table, the problem written in words, and the equation, so the students can match them, rather than coming up with them on their own&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Focus on writing out the rule in words rather than the equations&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Use less complex numbers&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Higher Level&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Provide opportunities for the students to produce missing parts of the table, or the equation, or the problem in words&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span face="Calibri"&gt;&lt;span&gt;Discuss relationships between different notations, such as 3x + 10 = y and x +x +x +10 +y&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&lt;span face="Calibri"&gt;Make the rules more complex such as, y = x&lt;sup&gt;2 &lt;/sup&gt;+ (6 – 3)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;&lt;span face="Calibri"&gt;Source: Adapted from Schmitt, M., Steinbeck, M., Donovan, T., Merson, M. (2005). Seeking patterns, building rules: Algebraic thinking.  Teacher Book.  Key Curriculum Press: Emeryville, CA.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span face="Calibri"&gt;Permission:  Permission granted for use for participants in the TEAL project/course offered by LINCS in the course and in their classrooms.  Unauthorized copying constitutes copyright infringement and is a violation of federal law.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;&lt;hr align="left" width="33%" /&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span&gt;&lt;span face="Calibri"&gt;&lt;span face="Arial"&gt;*&lt;/span&gt; Little, C.A., Hauser, S., Corbishley, J. (2009). Constructing complexity for differentiated learning.  Mathematics Teaching in the Middle School. 15 (1), , 35-42.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1527024512</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="132">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="133">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="134">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>3</value>
+      </plugin_config>
+      <plugin_config id="135">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="136">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="137">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="138">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1965">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1966">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>
