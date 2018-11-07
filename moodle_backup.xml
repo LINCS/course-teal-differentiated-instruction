@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <moodle_backup>
   <information>
-    <name>backup-moodle2-course-10-differentiated_instruction-20180611-1609-nu.mbz</name>
+    <name>backup-moodle2-course-10-differentiated_instruction-20181107-1652-nu.mbz</name>
     <moodle_version>2013111811.01</moodle_version>
     <moodle_release>2.6.11+ (Build: 20150619)</moodle_release>
     <backup_version>2013111800</backup_version>
     <backup_release>2.6</backup_release>
-    <backup_date>1528747758</backup_date>
+    <backup_date>1541627576</backup_date>
     <mnet_remoteusers>0</mnet_remoteusers>
     <include_files>1</include_files>
     <include_file_references_to_external_content>0</include_file_references_to_external_content>
@@ -19,7 +19,7 @@
     <original_course_contextid>179</original_course_contextid>
     <original_system_contextid>1</original_system_contextid>
     <details>
-      <detail backup_id="347c4fd38a7d560fb138878cad8431c9">
+      <detail backup_id="0ef03c5305930396ff20aab88fe2f7f8">
         <type>course</type>
         <format>moodle2</format>
         <interactive>1</interactive>
@@ -264,25 +264,25 @@ By the end of this course, participants will be ...</title>
           <directory>activities/wiki_411</directory>
         </activity>
         <activity>
-          <moduleid>412</moduleid>
-          <sectionid>269</sectionid>
-          <modulename>journal</modulename>
-          <title>Set your personal teaching goal for differentiated instruction</title>
-          <directory>activities/journal_412</directory>
-        </activity>
-        <activity>
           <moduleid>413</moduleid>
           <sectionid>269</sectionid>
           <modulename>label</modulename>
-          <title>Remember that your goal statements need to be spec...</title>
+          <title>Goal statements need to be specific enough to ensu...</title>
           <directory>activities/label_413</directory>
         </activity>
         <activity>
           <moduleid>414</moduleid>
           <sectionid>269</sectionid>
           <modulename>page</modulename>
-          <title>Steps to refine your goals statements</title>
+          <title>Steps to refine your goal statements</title>
           <directory>activities/page_414</directory>
+        </activity>
+        <activity>
+          <moduleid>412</moduleid>
+          <sectionid>269</sectionid>
+          <modulename>journal</modulename>
+          <title>Set your personal teaching goal for differentiated instruction</title>
+          <directory>activities/journal_412</directory>
         </activity>
         <activity>
           <moduleid>409</moduleid>
@@ -373,7 +373,7 @@ By the end of this course, participants will be ...</title>
       <setting>
         <level>root</level>
         <name>filename</name>
-        <value>backup-moodle2-course-10-differentiated_instruction-20180611-1609-nu.mbz</value>
+        <value>backup-moodle2-course-10-differentiated_instruction-20181107-1652-nu.mbz</value>
       </setting>
       <setting>
         <level>root</level>
@@ -927,18 +927,6 @@ By the end of this course, participants will be ...</title>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>journal_412</activity>
-        <name>journal_412_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>journal_412</activity>
-        <name>journal_412_userinfo</name>
-        <value>0</value>
-      </setting>
-      <setting>
-        <level>activity</level>
         <activity>label_413</activity>
         <name>label_413_included</name>
         <value>1</value>
@@ -959,6 +947,18 @@ By the end of this course, participants will be ...</title>
         <level>activity</level>
         <activity>page_414</activity>
         <name>page_414_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_412</activity>
+        <name>journal_412_included</name>
+        <value>1</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>journal_412</activity>
+        <name>journal_412_userinfo</name>
         <value>0</value>
       </setting>
       <setting>
